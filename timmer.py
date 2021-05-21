@@ -14,4 +14,4 @@ while hour != a:
 print (title)
 f = Figlet(font = 'slant')
 print (f.renderText('((alarm))'))
-system('mpv /data/data/com.termux/files/home/storage/dcim/Ro-music')
+system('mpv /data/data/com.termux/files/home/Alarm')
